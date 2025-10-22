@@ -10,15 +10,15 @@
 - Focus on deliberate practice over speed
 
 ## Stats This Week 
-- Concepts learned: 27
+- Concepts learned: 32
 - Practice problems attempted: 7
 - Solved independently: 6 (86%)
-- Code commits: 3
+- Code commits: 4
 
 ## Recent Wins
-- [10/19/2025]: Continued with my deep work sessions despite getting little sleep
-- [10/20/2025]: Implemented using Claude to generate practice conceptual and coding problems
+- [10/20/2025]: Implemented a system to generate practice conceptual and coding problems
 - [10/21/2025]: First day completing an easy, medium, and hard Claude-generated coding problem
+- [10/21/2025]: Learned about generators, iterables, and exception handling and understood it
 
 ## Current Focus
-Working through data structures (lists, dicts, sets, tuples)
+Understanding functions, generators, iterables, and exception handling
