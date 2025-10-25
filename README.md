@@ -10,16 +10,16 @@
 - Focus on deliberate practice over speed
 
 ## Stats This Week 
-- Concepts learned: 8
-- Practice problems attempted: 1
-- Solved independently: 0 (0%)
-- Solved independently or with hints: 1 (100%)  
-- Code commits: 1
+- Concepts learned: 12
+- Practice problems attempted: 3
+- Solved independently: 1 (33%)
+- Solved independently or with hints: 3 (100%)  
+- Code commits: 2
 
 ## Recent Wins
-- [10/21/2025]: First day completing an easy, medium, and hard Claude-generated coding problem
 - [10/22/2025]: Learned about generators, iterables, and exception handling and understood it
-- [10/24/2025]: Complted hard coding problem that required using recursion and multiple conditional requirements
+- [10/24/2025]: Completed hard coding problem that required using recursion and multiple conditional requirements
+- [10/25/2025]: Grasped fundamental concepts around file reading and writing and applied them
 
 ## Current Focus
 Open() with encoding, file modes (r/w/x/a/b), with statement for automatic cleanup, read/write methods (read/readlines/write/writelines), text vs binary mode
