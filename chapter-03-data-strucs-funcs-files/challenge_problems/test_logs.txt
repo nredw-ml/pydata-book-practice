@@ -1,0 +1,10 @@
+2024-10-15 14:23:01 ERROR Database connection failed
+2024-10-15 14:23:45 INFO User logged in successfully
+2024-10-15 14:24:12 WARNING Memory usage at 85%
+2024-10-15 14:25:03 ERROR File not found: data.csv
+2024-10-15 14:26:17 INFO Processing completed
+2024-10-15 14:27:33 ERROR Database connection failed
+2024-10-15 14:28:09 INFO User logged in successfully
+2024-10-15 14:29:45 WARNING Disk space low
+2024-10-15 14:30:12 ERROR Network timeout
+2024-10-15 14:31:01 INFO Backup started

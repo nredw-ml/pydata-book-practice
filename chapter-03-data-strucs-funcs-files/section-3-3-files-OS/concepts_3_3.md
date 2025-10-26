@@ -33,6 +33,7 @@ Correct: Text mode is for human-readable text files (CSV, JSON, .txt) where Pyth
 
 ## To Review
 - Binary mode use cases - when exactly to use "rb"/"wb" for different file types
+- Bug caught: Easy problem hardcoded filename instead of using function parameter (common mistake to watch for!)
 
 ---
 
