@@ -1,0 +1,14 @@
+USER SPENDING REPORT
+====================
+
+User ID: 999
+Total Spent: $199.99
+Number of Transactions: 1
+Products Purchased: headphones
+
+====================
+SUMMARY STATISTICS
+====================
+Total Users: 1
+Total Revenue: $199.99
+Average Spent per User: $199.99

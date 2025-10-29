@@ -1,0 +1,9 @@
+USER SPENDING REPORT
+====================
+
+====================
+SUMMARY STATISTICS
+====================
+Total Users: 0
+Total Revenue: $0.00
+Average Spent per User: $0.00

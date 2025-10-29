@@ -1,0 +1,29 @@
+USER SPENDING REPORT
+====================
+
+User ID: 101
+Total Spent: $1316.48
+Number of Transactions: 3
+Products Purchased: keyboard, laptop, mouse
+
+User ID: 102
+Total Spent: $1226.49
+Number of Transactions: 2
+Products Purchased: laptop, mouse
+
+User ID: 103
+Total Spent: $375.99
+Number of Transactions: 2
+Products Purchased: monitor, mouse
+
+User ID: 104
+Total Spent: $439.99
+Number of Transactions: 2
+Products Purchased: keyboard, monitor
+
+====================
+SUMMARY STATISTICS
+====================
+Total Users: 4
+Total Revenue: $3358.95
+Average Spent per User: $839.74
